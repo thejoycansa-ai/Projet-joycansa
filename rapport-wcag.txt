@@ -1,0 +1,12 @@
+RAPPORT D'ACCESSIBILITE WCAG / RGAA & JUSTIFICATION BONUS
+Projet : Boutique Solidaire WWF
+
+1. RGAA & Accessibilité :
+- Attributs 'alt' présents sur l'ensemble des images HTML pour la lecture d'écran.
+- Formulaire avec balises <label> associées à chaque élément de saisie.
+- Respect de la hiérarchie des balises de titres (h1, h2, h3).
+- Contrastes de couleurs suffisants pour assurer la lisibilité.
+
+2. Justification du Bonus :
+- Intégration d'un formulaire de contact 100% fonctionnel relié au service de messagerie Formspree.
+- Conception responsive pour ordinateur, tablette et mobile sans framework externe.
